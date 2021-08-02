@@ -1,3 +1,4 @@
+// Threading Concept with timing gap;
 import java.awt.Frame;
 import java.awt.Color;
 import java.awt.event.*;
