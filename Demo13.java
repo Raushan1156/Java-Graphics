@@ -32,11 +32,11 @@ public class Demo13 extends Frame {
             Thread.sleep(500);
              }
         catch(Exception e){}
-     // Line is not at perfect position.
         g.drawLine(x1,y1,x2,y2);   
         x1=x1+80;
         x2=x2+80;   
-        y1=y1+20;  
+        y1=y1+20;
+        y2=y2-20;  
     }
 
     }
