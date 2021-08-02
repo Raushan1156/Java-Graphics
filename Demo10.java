@@ -1,8 +1,8 @@
-//Loop Concept for printing 1 to 10 numbers on frame havig some time gap
+//Loop Concept for printing 1 to 10 numbers on frame having some time gap
 import java.awt.*;
 import java.awt.event.*;
 public class Demo10 extends Frame {
-    Demo10()
+    Demo10() 
     {
         setVisible(true);
         setSize(500,600);
