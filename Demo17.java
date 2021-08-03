@@ -1,4 +1,4 @@
-// Ashoka Chakra
+// Ashoka Chakra in white color only
 import java.awt.Frame;
 import java.awt.Color;
 import java.awt.event.*;
