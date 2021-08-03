@@ -29,6 +29,7 @@ public class Demo16 extends Frame {
         g.drawArc(x1,y1,x2,y2,0,0);
         
         for(int i=0;i<=360;i++){
+            //g.drawArc(x1,y1,x2,y2,0,a);
             g.fillArc(x1,y1,x2,y2,0,a);
           a=a+1;
             try{
